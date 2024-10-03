@@ -6,9 +6,9 @@
 
 **Graph Algo Simulator** is a web application designed to help users visualize typical graph searching algorithms. This interactive tool enables users to understand and explore various algorithms such as Depth-First Search (DFS), Breadth-First Search (BFS), A*, Dijkstra, and Greedy BFS through engaging animations and intuitive UI.
 
-**Live Demo** [Website Link](https://graphalgosimulator.netlify.app/)
+**💻Live Demo** [Website Link](https://graphalgosimulator.netlify.app/)
 
-##✨ Features
+## ✨ Features
 
 - **Visualize Graph Algorithms**: Observe how different algorithms traverse paths.
 - **Interactive Interface**: Click and drag to add source, destination, and blockers to create graphs, add nodes, and visualize the pathfinding process.
